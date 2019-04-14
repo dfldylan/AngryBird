@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{008C6A92-2975-C003-FE81-DEE405105C03}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Bird.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Bird.cs" Line="103" Column="6" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="8" Column="27" />
+      <File FileName="Assets/Scripts/Loading.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LoadScene.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AngryBird PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
